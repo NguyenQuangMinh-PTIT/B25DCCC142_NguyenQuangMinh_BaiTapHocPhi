@@ -15,7 +15,6 @@
 
 ## Hướng dẫn biên dịch và chạy chương trình
 
-1. Mở terminal/command prompt tại thư mục gốc của repository.
-2. Di chuyển vào thư mục của từng câu tương ứng (`Cau1`, `Cau2`, `Cau3`, hoặc `Cau4`):
-   ```bash
-   cd Cau1
+1. Mở terminal tại thư mục gốc của repository và vào thư mục câu cần chạy (`Cau1`, `Cau2`, `Cau3` hoặc `Cau4`): `cd Cau1`
+2. Biên dịch file mã nguồn Java: `javac Main.java`
+3. Chạy chương trình, nhập dữ liệu từ bàn phím (`System.in`) và nhấn Enter để xem kết quả: `java Main`[cite: 31, 32]
